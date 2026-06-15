@@ -50,5 +50,10 @@ jupyter notebook sentiment_analyzer.ipynb
 - How linguistic structure (SOV vs SVO word order) affects sentiment 
   detection accuracy
 
+  ⚠️ Note: Sentiment accuracy varies by language. 
+Low-resource languages may produce less reliable results 
+due to unequal training data distribution — a known 
+limitation of multilingual NLP models.
+
 ## Connect
 [linkedin.com/in/pearlshah24](https://linkedin.com/in/pearlshah24)
