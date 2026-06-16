@@ -1,6 +1,10 @@
 # Multilingual-Sentiment-Analyzer
 Built by **Pearl Shah** · CS & Linguistics @ SJSU
 
+## 🚀 Live Demo
+👉 [**Try it here — no installation needed!**](https://huggingface.co/spaces/Pearlvs/multilingual-sentiment-analyzer)
+
+
 ## What it does
 Analyzes the emotional tone of text across 100+ languages in real time. 
 Input any text — English, Spanish, Hindi, French, Mandarin, and more — 
