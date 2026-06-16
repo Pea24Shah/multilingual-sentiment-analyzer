@@ -2,7 +2,7 @@
 Built by **Pearl Shah** · CS & Linguistics @ SJSU
 
 ## 🚀 Live Demo
-👉 [**Try it here — no installation needed!**](https://huggingface.co/spaces/Pearlvs/multilingual-sentiment-analyzer)
+👉 [**Try it here — no installation needed!**](https://huggingface.co/spaces/Pea24Shah/multilingual-sentiment-analyzer)
 
 
 ## What it does
