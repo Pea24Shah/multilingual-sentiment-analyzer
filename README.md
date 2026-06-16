@@ -19,7 +19,7 @@ English well. This project explores how multilingual NLP models handle
 that complexity.
 
 ## Demo
-<img width="1350" height="708" alt="Screenshot 2026-06-15 at 3 12 22 PM" src="https://github.com/user-attachments/assets/84354040-fd25-4e4e-bdb9-517ed3d54b0c" />
+<img width="1344" height="747" alt="Screenshot 2026-06-15 at 5 26 51 PM" src="https://github.com/user-attachments/assets/848a716e-0fef-4b40-ae85-68b2db13dc0e" />
 
 
 ## Tech stack
