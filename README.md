@@ -29,16 +29,10 @@ that complexity.
 - langdetect (language identification)
 - Google Colab
 
-## How to run it
 
-### Option 1 — Google Colab (easiest)
+###Google Colab (Development & Prototyping)
 Click here → [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rxt7yBMCWJUbQpY7Lsyg_2mUshCJjClk#scrollTo=jY8i8fr0RxXc)
 
-### Option 2 — Local
-```bash
-pip install transformers torch gradio langdetect
-jupyter notebook sentiment_analyzer.ipynb
-```
 
 ## Sample outputs
 | Input | Language | Sentiment | Confidence |
