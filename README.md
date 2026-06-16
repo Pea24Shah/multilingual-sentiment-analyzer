@@ -30,8 +30,8 @@ that complexity.
 - Google Colab
 
 
-##Google Colab  
-(Development & Prototyping)
+## Development & Prototyping
+Google Colab
 Click here → [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rxt7yBMCWJUbQpY7Lsyg_2mUshCJjClk#scrollTo=jY8i8fr0RxXc)
 
 
